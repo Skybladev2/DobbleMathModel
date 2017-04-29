@@ -1,29 +1,29 @@
 # Уровни сложности чтения
 
 * Я слишком молод, чтобы думать
-  * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
-  * [Матрица инцидентности для игры Доббль](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
+  * [Введение и правила игры](#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
+  * [Как они это делают?](#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
+  * [Матрица инцидентности для игры Доббль](#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
   * Каких двух карточек не хватает в комплекте игры?
   * Благодарности
 
 * Сделай мне умно
-  * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
-  * При чём тут карточки?
+  * [Введение и правила игры](#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
+  * [Как они это делают?](#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
+  * [При чём тут карточки?](#%D0%9F%D1%80%D0%B8-%D1%87%D1%91%D0%BC-%D1%82%D1%83%D1%82-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8)
   * Проективные плоскости малых порядков
-  * [Матрица инцидентности для игры Доббль](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
+  * [Матрица инцидентности для игры Доббль](#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
   * Каких двух карточек не хватает в комплекте игры?
   * Благодарности
 
 * Кошмар
-  * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
-  * [Конечная геометрия для грудничков](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%BA%D0%BE%D0%B2)
-  * При чём тут карточки?
+  * [Введение и правила игры](#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
+  * [Как они это делают?](#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
+  * [Конечная геометрия для грудничков](#%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%BA%D0%BE%D0%B2)
+  * [При чём тут карточки?](#%D0%9F%D1%80%D0%B8-%D1%87%D1%91%D0%BC-%D1%82%D1%83%D1%82-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8)
   * Проективные плоскости малых порядков
   * Как построить проективную плоскость?
-  * [Матрица инцидентности для игры Доббль](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
+  * [Матрица инцидентности для игры Доббль](#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
   * Каких двух карточек не хватает в комплекте игры?
   * Благодарности
 
@@ -146,6 +146,25 @@ _Рис. 7._ Параллельные прямые афинной плоскос
 ![Fano plane](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/480px-Fano_plane.svg.png)
 
 _Рис. 8._ Плоскость Фано (Источник [en.wikipedia.org](https://en.wikipedia.org/wiki/Finite_geometry#/media/File:Fano_plane.svg))
+
+На этом рисунке сложно сразу разобрать все 7 прямых, так что вот пони-вариант той же плоскости:
+
+![Colored Fano plane](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/FanoColor.png)
+
+_Рис. 9._ Плоскость Фано с раскрашенными прямыми. (Источник [mathpuzzle.com](http://www.mathpuzzle.com/MAA/47-Fano/mathgames_05_30_06.html). Используется с разрешения [Ed Pegg Jr](ed@mathpuzzle.com).)
+
+Итак, плоскость Фано - это проективная плоскость 2 порядка с 7 точками и 7 линиями.
+
+# При чём тут карточки?
+
+Что будет, если мы переформулируем 2 аксиомы [конечной геометрии](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F), заменив “прямую” на “символ” и “точку” на “карточку”?
+
+Получится вот что:
+1. Для двух различных карточек существует только один символ, который изображён на обеих карточках.
+2. Для двух различных символов существует только одна карточка, которая содержит оба этих символа.
+
+Теперь на основе этих знаний посмотрим, как выглядел бы Доббль в простейшем случае. В нём было бы 7 карточек и 7 символов, на каждой карточке было бы по 3 символа (т.к. в одной точке пересекаются 3 прямые):
+
 
 
 # Матрица инцидентности для игры Доббль
