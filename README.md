@@ -1,29 +1,29 @@
 # Уровни сложности чтения
 
 * Я слишком молод, чтобы думать
-  * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
-  * [Матрица инцидентности для игры Доббль](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
+  * [Введение и правила игры](#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
+  * [Как они это делают?](#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
+  * [Матрица инцидентности для игры Доббль](#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
   * Каких двух карточек не хватает в комплекте игры?
   * Благодарности
 
 * Сделай мне умно
-  * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
-  * При чём тут карточки?
+  * [Введение и правила игры](#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
+  * [Как они это делают?](#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
+  * [При чём тут карточки?](#%D0%9F%D1%80%D0%B8-%D1%87%D1%91%D0%BC-%D1%82%D1%83%D1%82-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8)
   * Проективные плоскости малых порядков
-  * [Матрица инцидентности для игры Доббль](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
+  * [Матрица инцидентности для игры Доббль](#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
   * Каких двух карточек не хватает в комплекте игры?
   * Благодарности
 
 * Кошмар
-  * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
-  * [Конечная геометрия для грудничков](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%BA%D0%BE%D0%B2)
-  * При чём тут карточки?
+  * [Введение и правила игры](#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
+  * [Как они это делают?](#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
+  * [Конечная геометрия для грудничков](#%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%BA%D0%BE%D0%B2)
+  * [При чём тут карточки?](#%D0%9F%D1%80%D0%B8-%D1%87%D1%91%D0%BC-%D1%82%D1%83%D1%82-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8)
   * Проективные плоскости малых порядков
   * Как построить проективную плоскость?
-  * [Матрица инцидентности для игры Доббль](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
+  * [Матрица инцидентности для игры Доббль](#%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B3%D1%80%D1%8B-%D0%94%D0%BE%D0%B1%D0%B1%D0%BB%D1%8C)
   * Каких двух карточек не хватает в комплекте игры?
   * Благодарности
 
