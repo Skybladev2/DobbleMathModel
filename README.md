@@ -173,6 +173,9 @@ _Рис. 10._ Пример минимально возможного набор�
 
 ![anchor](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/anchor.png), ![apple](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/apple.png), ![bird](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/bird.png), ![cheese](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/cheese.png), ![drop](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/drop.png), ![exclamation](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/exclamation.png), ![heart](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/heart.png)
 
+Какие бы 2 карточки мы ни взяли, они будут иметь общий символ, изображённый рядом с прямой, на которой лежат обе карточки.  
+Например, у карточки в левом нижнем углу и карточки в середине правой грани общий символ ![bird](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/bird.png). Он изображён рядом с прямой ![line](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/line.png).
+
 # Матрица инцидентности для игры Доббль
 
 Исходный текст статьи находится по адресу https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
