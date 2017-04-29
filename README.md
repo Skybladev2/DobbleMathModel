@@ -137,6 +137,6 @@ _Рис. 7._ Параллельные прямые афинной плоскос
 
 # Матрица инцидентности для игры Доббль
 
-Исходный текст статьи находится тут: https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
+Исходный текст статьи находится по адресу https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
 
 © 2017 Skyblade
