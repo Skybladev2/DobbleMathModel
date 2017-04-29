@@ -121,13 +121,30 @@ _Рис. 6._ Афинная плоскость третьего порядка. 
 Здесь мы видим 9 точек и 12 прямых. Да-да, %username%, эти эллипсы - на самом деле прямые в терминах конечной геометрии.
 Фигуры одинакового цвета - это параллельные прямые. Их трудно заметить, поэтому разделим картинку на несколько:
 
-![Order 3 affine plane red](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_red.png) ![Order 3 affine plane blue](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_blue.png)
+| Плоскость №1 | Плоскость №2 | Плоскость №3 | Плоскость №4 |
+| :---: | :---: | :---: | :---: | 
+| ![Order 3 affine plane red](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_red_small.png) | ![Order 3 affine plane blue](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_blue_small.png) | ![Order 3 affine plane green](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_green_small.png) | ![Order 3 affine plane violet.png](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_violet_small.png)
 
-![Order 3 affine plane green](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_green.png)
-![Order 3 affine plane violet.png](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_violet.png)
+_Рис. 7._ Параллельные прямые афинной плоскости третьего порядка.
+
+Здесь проверка выполнения аксиом займёт чуть больше времени:
+1. Берём 2 любых точки, например, центральную верхнюю и правую нижнюю. Через них проходит только одна из фиолетовых прямых.
+2. Берём левую красную прямую и правую нижнюю точку. Аналогично плоскости второго порядка, только одна правая красная прямая проходит через эту точку, но не проходит ни через одну из трёх левых точек.
+3. Здесь чуть сложнее, чем в случае с плоскостью 2 порядка. Формулировка аксиомы гласит, что нужно найти хотя бы одно (непустое) множество из четырёх точек, в котором никакие три не лежат не одной прямой.  
+Очевидно, что 12 множеств с тремя точками, через которых проходят линии на рисунке, не удовлетворяют этому условию. Но ему удовлетворяет, например, множество из четырёх угловых точек.
+
+>В более общем случае, конечная аффинная плоскость порядка _**n**_ имеет _**n^2**_ точек и _**n^2 + n**_ прямых; каждая прямая содержит _**n**_ точек, и каждая точка принадлежит _**n + 1**_ прямой. [[1]](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)
+
+С афинной геометрией закончили, переходим ко второму типу геометрии на плоскости - проективной.
+
+>В проективной геометрии наоборот, любые две прямые пересекаются в единственно возможной точке, и потому параллельных прямых не существует. [[1]](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)
+
+Предыдущее предложение описывает вторую аксиому проективной геометрии. Первая и третья - такие же, как в афинной.
+
+>Поскольку третья аксиома требует существования как минимум четырёх точек, плоскость должна содержать как минимум 7 точек, чтобы удовлетворить условиям первых двух аксиом. В этой простейшей из проективных плоскостей имеется также 7 прямых; каждая точка принадлежит трём прямым, и каждая прямая содержит три точки. Такую проективную плоскость часто называют ["плоскостью Фано"](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C_%D0%A4%D0%B0%D0%BD%D0%BE). [[1]](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)
 
 # Матрица инцидентности для игры Доббль
 
-Исходный текст статьи находится тут: https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
+Исходный текст статьи находится по адресу https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
 
 © 2017 Skyblade
