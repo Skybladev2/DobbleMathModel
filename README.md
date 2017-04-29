@@ -33,3 +33,4 @@
 В комплекте игры 55 карточек с 8 разными символами на каждой. Вот как выглядят эти карточки:
 
 
+![Card 1](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble1.png) ![Card 2](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble2.png)
