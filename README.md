@@ -169,6 +169,10 @@ _Рис. 9._ Плоскость Фано с раскрашенными прям�
 
 _Рис. 10._ Пример минимально возможного набора карточек для Доббля.
 
+Тут используются следующие 7 символов:
+
+![anchor](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/anchor.png), ![apple](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/apple.png), ![bird](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/bird.png), ![cheese](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/cheese.png), ![drop](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/drop.png), ![exclamation](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/exclamation.png), ![heart](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/heart.png)
+
 # Матрица инцидентности для игры Доббль
 
 Исходный текст статьи находится по адресу https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
