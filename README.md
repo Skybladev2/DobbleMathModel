@@ -2,14 +2,14 @@
 
 * Я слишком молод, чтобы думать
   * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * Как они это делают?
+  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
   * Матрица инцидентности для игры Доббль
   * Каких двух карточек не хватает в комплекте игры?
   * Благодарности
 
 * Сделай мне умно
   * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * Как они это делают?
+  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
   * При чём тут карточки?
   * Проективные плоскости малых порядков
   * Матрица инцидентности для игры Доббль
@@ -18,7 +18,7 @@
 
 * Кошмар
   * [Введение и правила игры](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B8%D0%B3%D1%80%D1%8B)
-  * Как они это делают?
+  * [Как они это делают?](https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md#%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BD%D0%B8-%D1%8D%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%D1%82)
   * Конечная геометрия для грудничков
   * При чём тут карточки?
   * Проективные плоскости малых порядков
