@@ -248,6 +248,12 @@ _Рис. 17._ Неориентированный граф с 4-мя вершин
 
 ![Fano plane incidence matrix](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Fano%20plane%20incidence%20matrix.png)
 
+_Рис. 18._ Матрица инцидентности плоскости Фано.
+
+Для упрощения восприятия нули не показаны, а единицы заменены на символ _**Х**_.
+В таком представлении проективной плоскости хорошо заметен [принцип двойственности точек и прямых](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F#.D0.9A.D0.BE.D0.BD.D0.B5.D1.87.D0.BD.D1.8B.D0.B5_.D0.BF.D0.BB.D0.BE.D1.81.D0.BA.D0.BE.D1.81.D1.82.D0.B8) - прямая проходит ровно через 3 точки, и, в то же время, точка принадлежит ровно трём прямым.
+
+
 # Матрица инцидентности для игры Доббль
 
 Исходный текст статьи находится по адресу https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
