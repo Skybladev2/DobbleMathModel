@@ -47,4 +47,5 @@ _Рис. 2._ Совпадающие символы на карточках
 Часто это приводит к тому, что одна из карточек, для которой игроки ищут совпадения, меняется. Из-за этого приходится искать новое совпадение, которое может быть совсем другим символом:
 
 ![Card 3](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble3.png) ![Card 2](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble2.png) 
+
 ![Card 3 symbol2-3](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble3_symbol2-3.png) ![Card 2 symbol2-3](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble2_symbol2-3.png)
