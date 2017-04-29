@@ -121,10 +121,11 @@ _Рис. 6._ Афинная плоскость третьего порядка. 
 Здесь мы видим 9 точек и 12 прямых. Да-да, %username%, эти эллипсы - на самом деле прямые в терминах конечной геометрии.
 Фигуры одинакового цвета - это параллельные прямые. Их трудно заметить, поэтому разделим картинку на несколько:
 
-![Order 3 affine plane red](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_red.png) ![Order 3 affine plane blue](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_blue.png)
-
-![Order 3 affine plane green](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_green.png)
-![Order 3 affine plane violet.png](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_violet.png)
+| Плоскость №1 | Плоскость №2 | Плоскость №3 | Плоскость №4 |
+| :---: | :---: | :---: | :---: | 
+| ![Order 3 affine plane red](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_red_small.png) | ![Order 3 affine plane blue](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_blue_small.png) | 
+![Order 3 affine plane green](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_green_small.png) |
+![Order 3 affine plane violet.png](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_violet_small.png)
 
 # Матрица инцидентности для игры Доббль
 
