@@ -125,6 +125,16 @@ _Рис. 6._ Афинная плоскость третьего порядка. 
 | :---: | :---: | :---: | :---: | 
 | ![Order 3 affine plane red](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_red_small.png) | ![Order 3 affine plane blue](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_blue_small.png) | ![Order 3 affine plane green](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_green_small.png) | ![Order 3 affine plane violet.png](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Order_3_affine_plane_violet_small.png)
 
+_Рис. 7._ Параллельные прямые афинной плоскости третьего порядка.
+
+Здесь проверка выполнения аксиом займёт чуть больше времени:
+1. Берём 2 любых точки, например, центральную верхнюю и правую нижнюю. Через них проходит только одна из фиолетовых прямых.
+2. Берём левую красную прямую и правую нижнюю точку. Аналогично плоскости второго порядка, только одна правая красная прямая проходит через эту точку, но не проходит ни через одну из трёх левых точек.
+3. Здесь чуть сложнее, чем в случае с плоскостью 2 порядка. Формулировка аксиомы гласит, что нужно найти хотя бы одно (непустое) множество из четырёх точек, в котором никакие три не лежат не одной прямой.  
+Очевидно, что 12 множеств с тремя точками, через которых проходят линии на рисунке, не удовлетворяют этому условию. Но ему удовлетворяет, например, множество из четырёх угловых точек.
+
+>В более общем случае, конечная аффинная плоскость порядка _**n**_ имеет _**n^2**_ точек и _**n^2 + n**_ прямых; каждая прямая содержит _**n**_ точек, и каждая точка принадлежит _**n + 1**_ прямой. [[1]](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)
+
 # Матрица инцидентности для игры Доббль
 
 Исходный текст статьи находится тут: https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
