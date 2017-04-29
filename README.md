@@ -147,6 +147,12 @@ _Рис. 7._ Параллельные прямые афинной плоскос
 
 _Рис. 8._ Плоскость Фано (Источник [en.wikipedia.org](https://en.wikipedia.org/wiki/Finite_geometry#/media/File:Fano_plane.svg))
 
+На этом рисунке сложно сразу разобрать все 7 прямых, так что вот пони-вариант той же плоскости:
+
+![Colored Fano plane](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/FanoColor.png)
+
+_Рис. 9._ Плоскость Фано с раскрашенными прямыми. (Источник [mathpuzzle.com](http://www.mathpuzzle.com/MAA/47-Fano/mathgames_05_30_06.html). Используется с разрешения [Ed Pegg Jr](ed@mathpuzzle.com).)
+
 
 # Матрица инцидентности для игры Доббль
 
