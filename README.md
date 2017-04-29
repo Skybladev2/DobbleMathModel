@@ -297,6 +297,24 @@ _Рис. 19._ Матрица инцидентности плоскости Фа�
    
  _Рис. 20._ Матрица инцидентности игры Доббль.
 
+# Каких двух карточек не хватает в комплекте игры?
+
+Всего в таблице с матрицей инцидентности игры 57 строк и 55 столбцов. Это значит, что в игре могло быть ещё 2 карточки.  
+Значит, символы, которые должны быть на этих карточках, встречаются в игре реже, чем остальные. Количество символов в игре показано в последнем столбце таблицы.
+
+Количество символов с недостающих карточек таково:
+
+* ![bulb](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/bulb.png), ![cactus](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/cactus.png), ![chamomilae](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/chamomilae.png), ![dinosaur](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/dinosaur.png), ![dog](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/dog.png), ![exclamation](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/exclamation.png), ![eye](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/eye.png), ![hammer](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/hammer.png), ![human](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/human.png), ![ice](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/ice.png), ![ladybug](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/ladybug.png), ![leaf](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/leaf.png), ![question](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/question.png) и ![skull](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/skull.png)  
+(всего 14 символов) встречаются по 7 раз.
+* ![snowman](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/symbols/showman.png) встречается 6 раз.
+
+Как выглядят недостающие карточки? Для ответа на этот вопрос возьмём любой из представленных выше символов в матрице инцидентности (кроме снеговика), и поместим его на недостающую карточку (например, предпоследний столбец).  
+Затем найдём все карточки (столбцы), на которых изображён этот символ. Это значит, на всех этих карточках символы совпадают, и других совпадений быть не может.  
+Так как на этих карточках уже есть совпадение с выбранным символом, вычеркнем из предпоследнего столбца все символы, которые встречаются на остальных карточках.  
+Недостающие символы, которые не были вычеркнуты, и составляют символы одной из оставшихся карточек. Так как их получилось ровно 8, то вид второй недостающей карточки определяется однозначно.  
+
+Вот эти 2 карточки:
+
 Исходный текст статьи находится по адресу https://github.com/Skybladev2/DobbleMathModel/blob/master/README.md
 
 © 2017 Skyblade
