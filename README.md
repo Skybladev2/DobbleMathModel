@@ -35,9 +35,10 @@
 
 ![Card 1](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble1.png) ![Card 2](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble2.png)
 
-_Рис. 2._ Совпадающие символы на карточках
 _Рис. 1._ Пример карточек игры.
 
 На каждых двух карточках совпадает один и только один символ. На приведённом рисунке это символ карандаша:
 
 ![Card 1 symbol 1-2](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble1_symbol1-2.png) ![Card 2 symbol 1-2](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble2_symbol1-2.png)
+
+_Рис. 2._ Совпадающие символы на карточках
