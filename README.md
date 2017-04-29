@@ -49,3 +49,5 @@ _Рис. 2._ Совпадающие символы на карточках
 ![Card 3](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble3.png) ![Card 2](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble2.png) 
 
 ![Card 3 symbol2-3](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble3_symbol2-3.png) ![Card 2 symbol2-3](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/Dobble2_symbol2-3.png)
+
+_Рис. 3, 4._ Первая карточка заменяется на новую. Теперь между ними новое совпадение - символ клоуна.
