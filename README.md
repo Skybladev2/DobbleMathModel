@@ -145,7 +145,7 @@ _Рис. 7._ Параллельные прямые афинной плоскос
 
 >Поскольку третья аксиома требует существования как минимум четырёх точек, плоскость должна содержать как минимум 7 точек, чтобы удовлетворить условиям первых двух аксиом. В этой простейшей из проективных плоскостей имеется также 7 прямых; каждая точка принадлежит трём прямым, и каждая прямая содержит три точки. Такую проективную плоскость часто называют ["плоскостью Фано"](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D1%82%D1%8C_%D0%A4%D0%B0%D0%BD%D0%BE). [[1]](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)
 
-![Fano plane](https://github.com/Skybladev2/DobbleMathModel/blob/master/images/480px-Fano_plane.svg.png)
+![Fano plane](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fano_plane.svg/480px-Fano_plane.svg.png)
 
 _Рис. 8._ Плоскость Фано. (Источник [en.wikipedia.org](https://en.wikipedia.org/wiki/Finite_geometry#/media/File:Fano_plane.svg))
 
